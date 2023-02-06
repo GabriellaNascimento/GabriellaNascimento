@@ -1,4 +1,9 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7B32A6&height=120&section=header&text=&fontSize=30&fontColor=fff&fontAlignY=35"/>
+
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B32A6&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Gabriella+Nascimento;Eu+tenho+17+anos+de+idade)](https://git.io/typing-svg) -->
+
+
+
 
 <!--
 **GabriellaNascimento/GabriellaNascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
